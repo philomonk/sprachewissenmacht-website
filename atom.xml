@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>The blog of Sprache Wissen Macht</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000"/>
- <updated>2017-07-16T16:07:49+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://www.sprachewissenmacht.com/atom.xml" rel="self"/>
+ <link href="http://www.sprachewissenmacht.com"/>
+ <updated>2017-07-16T17:39:32+02:00</updated>
+ <id>http://www.sprachewissenmacht.com</id>
  <author>
    <name>Sprache Wissen Macht</name>
    <email>philomonk@myprivacy.ca</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Überschriften übersetzen</title>
-   <link href="http://localhost:4000/translating%20the%20news/2015/08/translating-the-news/"/>
+   <link href="http://www.sprachewissenmacht.com/translating%20the%20news/2015/08/translating-the-news/"/>
    <updated>2015-08-23T08:00:00+02:00</updated>
-   <id>http://localhost:4000/translating%20the%20news/2015/08/translating-the-news</id>
+   <id>http://www.sprachewissenmacht.com/translating%20the%20news/2015/08/translating-the-news</id>
    <content type="html">&lt;p&gt;In der Serie &lt;em&gt;Überschriften übersetzen / Translating the News&lt;/em&gt; lese ich die Sprache, das Vokabular einer Zeitungsüberschrift. Mir geht es dabei vor allem darum, implizite Vorurteile und Werturteile sichtbar zu machen. Was dann besonders klar wird, ist, dass die öffentliche Debatte in Deutschland, die öffentliche Debatte auf Deutsch, durchdrungen ist von Doppelmoral und Doppelzüngigkeit in Bezug auf Menschen, die wir als fremd verstehen.&lt;/p&gt;
 
 &lt;p&gt;Heute war die erste Meldung auf der Süddeutschen Zeitung folgende:&lt;/p&gt;
