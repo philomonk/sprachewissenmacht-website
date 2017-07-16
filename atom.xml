@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Sprache Wissen Macht</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000"/>
+ <updated>2017-07-16T16:07:49+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Sprache Wissen Macht</name>
+   <email>philomonk@myprivacy.ca</email>
+ </author>
+
+ 
+ <entry>
+   <title>Überschriften übersetzen</title>
+   <link href="http://localhost:4000/translating%20the%20news/2015/08/translating-the-news/"/>
+   <updated>2015-08-23T08:00:00+02:00</updated>
+   <id>http://localhost:4000/translating%20the%20news/2015/08/translating-the-news</id>
+   <content type="html">&lt;p&gt;In der Serie &lt;em&gt;Überschriften übersetzen / Translating the News&lt;/em&gt; lese ich die Sprache, das Vokabular einer Zeitungsüberschrift. Mir geht es dabei vor allem darum, implizite Vorurteile und Werturteile sichtbar zu machen. Was dann besonders klar wird, ist, dass die öffentliche Debatte in Deutschland, die öffentliche Debatte auf Deutsch, durchdrungen ist von Doppelmoral und Doppelzüngigkeit in Bezug auf Menschen, die wir als fremd verstehen.&lt;/p&gt;
+
+&lt;p&gt;Heute war die erste Meldung auf der Süddeutschen Zeitung folgende:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/bildschirmfoto-2015-08-23-um-16-15-38.png&quot; alt=&quot;Süddeutsche am 23.8.2015&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Warum Afrikas Machthaber den Exodus nicht stoppen&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;Trotz guter Wirtschaftszahlen verlassen Tausende Arbeitskräfte den Kontinent. Die Herrscher von Gabun bis Simbabwe lassen sie gewähren - aus eigenem Interesse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vor dem Hintergrund der laufenden Debatte über Geflohene und Vertriebene, die in Deutschland eintreffen, wird sich hier darüber beschwert, dass “Afrikas Machthaber” ihre Bevölkerung daran hindern auszureisen. “Machthaber” ist eine von drei Vokabeln, die SZ Redakteure benutzen, um implizit auszudrücken, für wie legitim sie einen jeweiligen Staatsführer halten. Geordnet nach Legitimität: Präsident — Machthaber — Diktator. Bezeichnenderweise wurde Syriens Präsident Bashar al-Assad lange als “Präsident” bezeichnet. Spätestens seit dem Ausbruch des syrischen Bürgerkriegs bezeichneten ihn die Redakteure als “Diktator” und seit dem Aufkommen des Islamischen Staates, der als bedrohlich verstanden wird, wieder nur noch als “Machthaber”.&lt;/p&gt;
+
+&lt;p&gt;Die Überschrift ist als Verneinung formuliert, also als Abweichung von der Norm. Das zeigt, dass die SZ es für erwartbar hält, wenn Menschen aus Afrika von den Staaten, aus denen sie kommen, daran gehindert werden würden, auszuwandern. Staaten, die die Freiheit ihrer Bevölkerung dermaßen beschneiden, sind nicht demokratisch. Das heißt, eine Zeitung, die sich als demokratisch versteht, wünscht sich, dass afrikanische Staaten ihre jeweilige Bevölkerung einsperrt, damit sie nicht nach Europa kommt. Das ist eine Doppelmoral, wie wir sie häufig anlegen, wenn wir über Menschen sprechen, die wir als fremd verstehen. Vor allem Muslime, Araber, Afrikaner und Menschen vom Balkan.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
