@@ -117,6 +117,15 @@
 
 </div>
 
+<p><small><em>Letzte Änderung am:
+    <span id="modified"></span>
+</em></small></p>
+
+<script>
+const date = new Date(document.lastModified);
+document.getElementById("modified").innerHTML = date;
+</script>
+
 <div id="related">
   <h3>Related Posts</h3>
   <ul class="posts">
